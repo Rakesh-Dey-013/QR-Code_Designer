@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+b/* Base styles */
+body {
+  background-color: #18181b; /* bg-zinc-900 */
+  color: #a1a1aa;            /* text-gray-400 */
+}
+
+/* Spotlight background animation */
+.spotlight-bg {
+  background: radial-gradient(
+    ellipse at center,
+    rgba(39, 39, 42, 0.8) 0%,   /* #27272a */
+    rgba(24, 24, 27, 0.9) 100%  /* #18181b */
+  );
+  background-size: 200% 200%;
+  animation: spotlight 12s ease infinite;
+}
+
+/* Gradient text animation */
+.gradient-text {
+  background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-size: 200% 200%;
+  animation: gradient 8s ease infinite;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #27272a; /* bg-zinc-800 */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #52525b; /* bg-zinc-600 */
+  border-radius: 9999px;     /* rounded-full */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #71717a; /* bg-zinc-500 */
+}
+
+@keyframes spotlight {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
