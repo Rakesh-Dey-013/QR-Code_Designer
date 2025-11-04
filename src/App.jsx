@@ -12,9 +12,9 @@ export default function App() {
         <Navbar />
         <main className="flex-grow">
           <Routes>
-            <Route path="/QR-Code_generator" element={<Home />} />
-            <Route path="/QR-Code_generator/design" element={<Design />} />
-            <Route path="/QR-Code_generator/history" element={<History />} />
+            <Route path="/QR-Code_Designer" element={<Home />} />
+            <Route path="/QR-Code_Designer/design" element={<Design />} />
+            <Route path="/QR-Code_Designer/history" element={<History />} />
           </Routes>
         </main>
         <Footer />

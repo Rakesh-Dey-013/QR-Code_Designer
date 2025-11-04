@@ -46,7 +46,7 @@ export default function Home() {
             transition={{ duration: 0.5, delay: 0.6 }}
           >
             <Link
-              to="/QR-Code_generator/design"
+              to="/QR-Code_Designer/design"
               className="group relative inline-flex items-center px-10 py-4 bg-gradient-to-r from-violet-600 to-purple-600 hover:from-violet-700 hover:to-purple-700 text-white font-semibold rounded-2xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl hover:shadow-violet-500/25"
             >
               <span className="relative z-10">Start Designing</span>

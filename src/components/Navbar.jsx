@@ -24,9 +24,9 @@ export default function Navbar() {
   };
 
   const navItems = [
-    { path: '/QR-Code_generator', name: 'Home', end: true },
-    { path: '/QR-Code_generator/design', name: 'Design', end: false },
-    { path: '/QR-Code_generator/history', name: 'History', end: false }
+    { path: '/QR-Code_Designer', name: 'Home', end: true },
+    { path: '/QR-Code_Designer/design', name: 'Design', end: false },
+    { path: '/QR-Code_Designer/history', name: 'History', end: false }
   ];
 
   return (

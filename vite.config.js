@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/QR-Code_generator",
+  base: "/QR-Code_Designer",
   plugins: [react(), tailwindcss()],
 })
