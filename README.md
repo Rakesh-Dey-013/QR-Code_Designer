@@ -1,12 +1,58 @@
-# React + Vite
+# 🎨 Artistic QR Code Designer ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Create stunning, customizable **QR Codes** with a modern and artistic touch!  
+This web app allows you to design unique QR codes with beautiful colors, gradients, styles, and animations.
 
-Currently, two official plugins are available:
+### 🌐 **Live Demo:** [Artistic QR Code Designer](https://rakesh-dey-013.github.io/QR-Code_Designer/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| ![Preview 1](https://via.placeholder.com/500x300?text=Artistic+QR+1) | ![Preview 2](https://via.placeholder.com/500x300?text=Artistic+QR+2) |
+|:--:|:--:|
+| *Gradient Style Example* | *Abstract Design Example* |
+
+| ![Preview 3](https://via.placeholder.com/500x300?text=Artistic+QR+3) | ![Preview 4](https://via.placeholder.com/500x300?text=Artistic+QR+4) |
+|:--:|:--:|
+| *Dark Theme Example* | *Custom Color Example* |
+
+*(Replace the above images with your actual screenshots once available.)*
+
+---
+
+## ✨ Features
+
+- 🎨 **Custom Design Options:** Change colors, gradients, and background styles.  
+- ⚙️ **Instant QR Generation:** Generate QR codes in real-time.  
+- 💫 **Framer Motion Animations:** Smooth, aesthetic animations throughout the app.  
+- 🧩 **Responsive Layout:** Perfectly optimized for all devices.  
+- 🧠 **Simple & Intuitive UI:** Easy-to-use interface for all users.  
+- 📥 **Download Support:** Export and save your designed QR code easily.  
+- 🌙 **Dark Mode UI:** Modern glassmorphism dark theme design.
+
+---
+
+## 🛠 Tech Stack  
+This project is built using the following technologies:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,git,github,vite" />
+</p>
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/rakesh-dey-013/QR-Code_Designer.git
+
+# Navigate into the project folder
+cd QR-Code_Designer
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
