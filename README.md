@@ -9,13 +9,13 @@ This web app allows you to design unique QR codes with beautiful colors, gradien
 
 ## 🖼️ Preview
 
-| ![Preview 1](https://via.placeholder.com/500x300?text=Artistic+QR+1) | ![Preview 2](https://via.placeholder.com/500x300?text=Artistic+QR+2) |
+| ![Preview 1](https://github.com/Rakesh-Dey-013/QR-Code_Designer/blob/main/src/assets/home.png) | ![Preview 2](https://github.com/Rakesh-Dey-013/QR-Code_Designer/blob/main/src/assets/design.png) |
 |:--:|:--:|
-| *Gradient Style Example* | *Abstract Design Example* |
+| *Home Page Design* | *QR Code Design Example* |
 
-| ![Preview 3](https://via.placeholder.com/500x300?text=Artistic+QR+3) | ![Preview 4](https://via.placeholder.com/500x300?text=Artistic+QR+4) |
+| ![Preview 3](https://github.com/Rakesh-Dey-013/QR-Code_Designer/blob/main/src/assets/preview.png) | ![Preview 4](https://github.com/Rakesh-Dey-013/QR-Code_Designer/blob/main/src/assets/history.png) |
 |:--:|:--:|
-| *Dark Theme Example* | *Custom Color Example* |
+| *Preview QR Code* | *Generate QR code History* |
 
 *(Replace the above images with your actual screenshots once available.)*
 
