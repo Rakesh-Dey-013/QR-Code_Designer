@@ -17,7 +17,6 @@ This web app allows you to design unique QR codes with beautiful colors, gradien
 |:--:|:--:|
 | *Preview QR Code* | *Generate QR code History* |
 
-*(Replace the above images with your actual screenshots once available.)*
 
 ---
 
